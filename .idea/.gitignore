@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# CodeStream ignored files
+/../../VendingMachine\.idea/codestream.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\Users\carlo\OneDrive\Documents\LTC\LTC FALL 2020\Object-Oriented Programming 1\LP12&LP13\VendingMachine\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
